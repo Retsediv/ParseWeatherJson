@@ -1,2 +1,4 @@
 .idea
-ParseWeatherJson.iml
+*.iml
+out
+gen
